@@ -1,4 +1,4 @@
-Its just mini yet not big
+Some are bannable
 
 # best fflag
 

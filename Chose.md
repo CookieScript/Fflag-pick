@@ -1,5 +1,15 @@
 Some are bannable
 
+For Mobile players
+Use this script
+
+# mob Bloxstrap
+
+```
+getgenv().hideui = false -- u can set this to true
+loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/main/Initiate.lua', true))()
+```
+
 # best fflag
 
 ```
